@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 First-year B.Tech Computer Science student at **ABES Engineering College**.
+- 🎓 First-year B.Tech Computer Science student.
 - 💻 Practising **C++ and Data Structures & Algorithms**.
 - 🌐 Currently learning **JavaScript and Web Development**.
 - 🧠 Interested in problem-solving, competitive programming, and software engineering.
